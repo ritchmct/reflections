@@ -1,0 +1,7 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+
+A. The .git sub directory gets created. This allows goit to recognise the current directory a git repository.
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A. It holds a saved version of the files you are currently working on
