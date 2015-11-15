@@ -9,3 +9,13 @@ A. You add files to the staging area before you make a commit. It allows you to 
 Q. How can you use the staging area to make sure you have one commit per logical change?
 
 A. Just add the files related to the logical change to the staging area before perfoming the commit.
+
+Q. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A. Making experimental changes to your code or a slightly different version for a different purpose. Branches allow you to manage and switch between these different versions of code easily.
+
+Q. How do branches help you visualize the branch structure?
+
+A. They show the common origin of a branch and where it splits from other branches.
+
+
