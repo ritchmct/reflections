@@ -18,4 +18,8 @@ Q. How do branches help you visualize the branch structure?
 
 A. They show the common origin of a branch and where it splits from other branches.
 
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A. The code changes from both branches are all merged back to a single branch. The diagram shpows the branches coming back together.
+
 
