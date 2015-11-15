@@ -22,4 +22,6 @@ Q. What is the result of merging two branches together? Why do we represent it i
 
 A. The code changes from both branches are all merged back to a single branch. The diagram shpows the branches coming back together.
 
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+A. Automatic megring is faster and handles code changes to different parts of the code well. Always megring manually will take extra time but will ensure that all changes are reviewed for conflicts before merging.
