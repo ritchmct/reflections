@@ -13,3 +13,7 @@ A. Forks only exist on GitHub and are a copy of another repository. Once forked 
 Q. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A. On the local copy it is possible to tell if the commits are ahead of the remote copy since the last pull. Also fetching the remote copy as another local branch allows merges to be performed locally.
+
+Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A. You could use a shared directory on a site like Dropbox and then use emails or IM to discuss changes being made. It would be difficult to merge changes made by different people.
