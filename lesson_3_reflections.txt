@@ -6,3 +6,7 @@ Q. Why might you want to always pull changes manually rather than having Git aut
 
 A. If someone else is making changes you might like to review them before updating your local repository with these changes.
 
+Q. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A. Forks only exist on GitHub and are a copy of another repository. Once forked the repository is independent of the original. This would be used to create a copy that you can then update independently. A clone is a copy of a github repository or a local repository. A clone stays linked to the original repository and updates can be pulled and pushed between them. A branch exists within a single repository and can be used to, for example, make some experimental changes to code without changing you existing master branch.
+
