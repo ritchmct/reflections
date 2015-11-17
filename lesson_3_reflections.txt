@@ -17,3 +17,8 @@ A. On the local copy it is possible to tell if the commits are ahead of the remo
 Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A. You could use a shared directory on a site like Dropbox and then use emails or IM to discuss changes being made. It would be difficult to merge changes made by different people.
+
+Q. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A. When collaborating with other people it is always best to get code reviewed before committing it to the master branch. By using a different branch it is possible to ensure that all changes to master are agreed by others before being committed.
+
